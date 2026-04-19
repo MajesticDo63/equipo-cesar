@@ -46,7 +46,7 @@ docker run -d -p 5000:5000 \
   inventario-app
 
 # 5. Abrir en navegador
-http://IP_EC2:5000
+http://IP_EC2:5000 (la que este generada en el server monolito)
 ```
 
 ## Decisiones técnicas
